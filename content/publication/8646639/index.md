@@ -1,0 +1,13 @@
+---
+title: "WHAT MATTERS THE MOST? OPTIMAL QUICK CLASSIFICATION OF URBAN ISSUE REPORTS BY IMPORTANCE"
+date: 2018-11-01
+publishDate: 2020-05-22T18:47:22.175503Z
+authors: ["Y. Liyanage", "M. Yao", "C. Yong", "D. Zois", "C. Chelmis"]
+publication_types: ["1"]
+abstract: "Civic engagement platforms such as SeeClickFix and FixMyStreet have revolutionized the way citizens interact with local governments to report and resolve urban issues. However, recognizing which urban issues are important to the community in an accurate and timely manner is essential for authorities to prioritize important issues, allocate resources and maintain citizens' satisfaction with local governments. To this end, a novel formulation based on optimal stopping theory is devised to infer urban issues importance from ambiguous textual, time and location information. The goal is to optimize recognition accuracy, while minimizing the time to reach a decision. The optimal classification and stopping rules are derived. Furthermore, a near-real-time urban issue reports processing method to infer the importance of incoming issues is proposed. The effectiveness of the proposed method is illustrated on a real-word dataset from SeeClick-Fix, where significant reduction in time-to-decision without sacrificing accuracy is observed."
+featured: false
+publication: "*2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP)*"
+tags: ["decision making;government data processing;local government;optimisation;pattern classification;public administration;resource allocation;town and country planning;civic engagement platforms;local governments;optimal stopping theory;optimal classification;near-real-time urban issue reports processing method;resource allocation;Feature extraction;Random variables;Local government;Urban areas;Classification algorithms;Computer science;participatory civil issues;issue urgency;government 2.0;optimal stopping theory;quickest detection"]
+doi: "10.1109/GlobalSIP.2018.8646639"
+---
+
