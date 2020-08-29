@@ -74,7 +74,7 @@ user_groups:
 ---
 
 Yasitha Liyanage is a PhD student working with [Dr. Daphney Zois](https://www.albany.edu/~dz973423/index.html)
-(supervisor) and [Dr. Charalampos Chelmis](http://www.cs.albany.edu/~cchelmis/) at the Department of Electrical and Computer Engineering, University at Albany, SUNY.
+(advisor) and [Dr. Charalampos Chelmis](http://www.cs.albany.edu/~cchelmis/) at the Department of Electrical and Computer Engineering, University at Albany, SUNY.
 
 Currently, I am working on the problem of on-the-fly instance-wise joint feature selection and classification, the goal of which is to optimize the number of features evaluated individually for each data instance in an online setting, while achieving high classification accuracy across all data instances. 
 This is particularly important for real world applications requiring time-sensitive and interpretable decisions (e.g. medical diagnosis, disaster prediction).

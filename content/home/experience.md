@@ -17,13 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "The State University of New York at Albany"
-  company_url = "https://www.albany.edu/"
-  location = "Albany, New York"
-  date_start = "2020-09-01"
- # date_end = "2018-04-30"
+
+#[[experience]]
+#  title = "Graduate Research Assistant"
+#  company = "The State University of New York at Albany"
+#  company_url = "https://www.albany.edu/"
+#  location = "Albany, New York"
+#  date_start = "2020-09-01"
+# date_end = "2018-04-30"
 
 [[experience]]
   title = "Applied Scientist Intern"
@@ -40,13 +41,13 @@ date_format = "Jan 2006"
  # * Deploying
  # """
 
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "The Research Foundation for SUNY"
-  company_url = "https://www.rfsuny.org/"
-  location = "Albany, New York"
-  date_start = "2018-05-01"
-  date_end = "2020-05-31"
+#[[experience]]
+#  title = "Graduate Research Assistant"
+#  company = "The Research Foundation for SUNY"
+#  company_url = "https://www.rfsuny.org/"
+#  location = "Albany, New York"
+#  date_start = "2018-05-01"
+#  date_end = "2020-05-31"
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
@@ -55,8 +56,8 @@ date_format = "Jan 2006"
   company_url = "https://www.albany.edu/"
   location = "Albany, New York"
   date_start = "2017-08-01"
-  date_end = "2018-04-30"
- # description = """Taught electronic engineering and researched semiconductor physics."""
+#  date_end = "2018-04-30"
+# description = """Taught electronic engineering and researched semiconductor physics."""
 
   
 [[experience]]
