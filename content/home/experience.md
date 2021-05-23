@@ -31,15 +31,9 @@ date_format = "Jan 2006"
   company = "Amazon Capital Services, Inc"
   company_url = "https://www.amazon.com/"
   location = "Seattle, WA"
-  date_start = "2020-06-01"
-  date_end = "2020-08-30"
- # description = """
- # Responsibilities include:
- # 
- # * Analysing
- # * Modelling
- # * Deploying
- # """
+  date_start = "2021-05-17"
+# date_end = "2021-08-20"
+
 
 #[[experience]]
 #  title = "Graduate Research Assistant"
@@ -56,9 +50,18 @@ date_format = "Jan 2006"
   company_url = "https://www.albany.edu/"
   location = "Albany, New York"
   date_start = "2017-08-01"
-#  date_end = "2018-04-30"
+  date_end = "2021-05-14"
 # description = """Taught electronic engineering and researched semiconductor physics."""
 
+  
+[[experience]]
+title = "Applied Scientist Intern"
+company = "Amazon Capital Services, Inc"
+company_url = "https://www.amazon.com/"
+location = "Seattle, WA"
+date_start = "2020-06-01"
+date_end = "2020-08-30"
+  
   
 [[experience]]
   title = "Graduate Research Assistant"
