@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Yasitha Liyanage is a PhD student working with [Dr. Daphney Zois](https://www.albany.edu/~dz973423/index.html)
+Yasitha Liyanage is a PhD candidate working with [Dr. Daphney Zois](https://www.albany.edu/~dz973423/index.html)
 (advisor) and [Dr. Charalampos Chelmis](http://www.cs.albany.edu/~cchelmis/) at the Department of Electrical and Computer Engineering, University at Albany, SUNY.
 
 Currently, I am working on the problem of instance-wise dynamic feature selection for classification and regression. 
