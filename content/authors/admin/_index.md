@@ -30,9 +30,6 @@ education:
   - course: PhD in Electrical & Computer Engineering
     institution: The State University of New York at Albany
     year: August 2017 - present
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
   - course: BSc in Electrical & Electronic Engineering
     institution: University of Peradeniya, Sri Lanka
     year: March 2013 - October  2016
@@ -59,12 +56,6 @@ social:
   link: files/CV.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
