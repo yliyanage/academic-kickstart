@@ -27,49 +27,38 @@ date_format = "Jan 2006"
 # date_end = "2018-04-30"
 
 [[experience]]
-  title = "Applied Scientist Intern"
-  company = "Amazon Capital Services, Inc"
-  company_url = "https://www.amazon.com/"
-  location = "Seattle, WA"
-  date_start = "2021-05-17"
-# date_end = "2021-08-20"
-
-
-#[[experience]]
-#  title = "Graduate Research Assistant"
-#  company = "The Research Foundation for SUNY"
-#  company_url = "https://www.rfsuny.org/"
-#  location = "Albany, New York"
-#  date_start = "2018-05-01"
-#  date_end = "2020-05-31"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+	title = "Applied Scientist Intern"
+	company = "Amazon Capital Services, Inc"
+	company_url = "https://www.amazon.com/"
+	location = "Seattle, WA"
+	date_start = "2021-05-17"
+	date_end = "2021-08-20"
 
 [[experience]]
-  title = "Graduate Research Assistant"
-  company = "The State University of New York at Albany"
-  company_url = "https://www.albany.edu/"
-  location = "Albany, New York"
-  date_start = "2017-08-01"
-  date_end = "2021-05-14"
-# description = """Taught electronic engineering and researched semiconductor physics."""
+	title = "Applied Scientist Intern"
+	company = "Amazon Capital Services, Inc"
+	company_url = "https://www.amazon.com/"
+	location = "Seattle, WA"
+	date_start = "2020-06-01"
+	date_end = "2020-08-30"
+	
+	
+[[experience]]
+	title = "Graduate Research Assistant"
+	company = "The State University of New York at Albany"
+	company_url = "https://www.albany.edu/"
+	location = "Albany, New York"
+	date_start = "2017-08-01"
+	#  date_end = "2021-05-14"
 
+	  
   
 [[experience]]
-title = "Applied Scientist Intern"
-company = "Amazon Capital Services, Inc"
-company_url = "https://www.amazon.com/"
-location = "Seattle, WA"
-date_start = "2020-06-01"
-date_end = "2020-08-30"
-  
-  
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "University of Peradeniya"
-  company_url = "http://eng.pdn.ac.lk/"
-  location = "Peradeniya, Sri Lanka"
-  date_start = "2016-11-01"
-  date_end = "2017-07-31"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+	title = "Graduate Research Assistant"
+	company = "University of Peradeniya"
+	company_url = "http://eng.pdn.ac.lk/"
+	location = "Peradeniya, Sri Lanka"
+	date_start = "2016-11-01"
+	date_end = "2017-07-31"
 
 +++
