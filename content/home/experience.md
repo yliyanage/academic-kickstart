@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[experience]]
-#  title = "Graduate Research Assistant"
-#  company = "The State University of New York at Albany"
-#  company_url = "https://www.albany.edu/"
-#  location = "Albany, New York"
-#  date_start = "2020-09-01"
-# date_end = "2018-04-30"
+[[experience]]
+   	title = "Data and Applied Scientist--II"
+	company = "Microsoft Corporation"
+	company_url = "https://www.microsoft.com/"
+	location = "Redmond, Washington"
+	date_start = "2022-01-31"
+	# date_end = "2018-04-30"
 
 [[experience]]
 	title = "Applied Scientist Intern"
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
 	company_url = "https://www.albany.edu/"
 	location = "Albany, New York"
 	date_start = "2017-08-01"
-	#  date_end = "2021-05-14"
+        date_end = "2021-12-17"
 
 	  
   
