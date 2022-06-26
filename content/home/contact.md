@@ -20,6 +20,6 @@ content:
   form:
     provider: formspree
     formspree:
-      id: https://formspree.io/f/yasithashehanliyanage@gmail.com
+      id: "https://formspree.io/f/yasithashehanliyanage@gmail.com"
 +++
 
