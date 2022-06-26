@@ -18,6 +18,29 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "The State University of New York at Albany"
+  organization_url = "https://www.albany.edu"
+  title = "Distinguished Doctoral Dissertation Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-05-12"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "The State University of New York at Albany"
+  organization_url = "https://www.albany.edu"
+  title = "Graduate Student Association Grant Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = ""
+
+
 [[item]]
   organization = "National Science Foundation"
   organization_url = "https://www.nsf.gov/"

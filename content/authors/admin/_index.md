@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Yasitha Liyanage is a Data and Applied Scientist at Microsoft Corporation.  
+Yasitha Liyanage is a Data and Applied Scientist at Microsoft.  
 
